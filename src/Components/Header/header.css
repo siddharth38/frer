@@ -1,0 +1,136 @@
+.main-header{
+    position: relative;
+    left: 20px;
+    top: 55px;
+ 
+  }
+.wrapper {
+    width: 620px;
+    min-width: 80%;
+    height: 50px;
+    position: absolute;
+    left: 2%;
+    top: 50px;
+    border-radius: 5px;
+    background-image: linear-gradient(to top, #accbee 0%, transparent 100%,transparent) ;
+    overflow: hidden;
+  }
+  
+  .wave1{
+    width: 1000px;
+    height: 305px;
+    position: absolute;
+    top: -25%;
+    left: 0%;
+    margin-left: -500px;
+    margin-top: -500px;
+    transform: rotate(130deg);
+    border-radius: 35%;
+    background: rgba(255, 255, 255);
+    
+  }
+  
+  .wave2{
+    width: 1000px;
+    height: 305px;
+    position: absolute;
+    top: -25%;
+     left: 70%;
+    margin-left: -500px;
+    margin-top: -500px;
+    transform: rotate(130deg);
+    border-radius: 35%;
+    background: rgba(255, 255, 255);
+   
+  }
+  
+  .wave3{
+    width: 1000px;
+    height: 305px;
+    position: absolute;
+    top: -25%;
+   left: 100% ;
+    margin-left: -500px;
+    margin-top: -500px;
+    transform: rotate(130deg);
+    border-radius: 35%;
+    background: rgba(255, 255, 255);
+   
+  }
+  
+.mains{
+    position: relative;
+}
+.vl {
+    border-left: 2px solid green;
+    height: 55px;
+
+  }
+ 
+.card__right1{
+    position: absolute;
+    top: -30px;
+    right: 200px;
+    width: 45px; 
+    height: 45px;
+    border-radius: 50%;
+    color: #020202;
+    text-align: center;
+    font-weight: 300;
+    line-height: 13px;
+    display: flex;
+}
+.card__left1{
+    position: absolute;
+    top: -26px;
+    left: 10px;
+    height: 25px;
+    padding-top: 0px;
+    color: #0a0a0a;
+    text-align: center;
+    font-weight: 300;
+}
+
+
+.button {
+  background-color: rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  border-width: 0;
+  color: #3f3e3e;
+  cursor: pointer;
+   height: 26px;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1px;
+  padding: -20px 12px;
+  text-align: center;
+  white-space: nowrap;
+  margin: 2px;
+  
+}
+.buttons{
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+  border-width: 0;
+  color: #3f3e3e;
+  cursor: pointer;
+   height: 26px;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1px;
+  padding: -20px 12px;
+  text-align: center;
+  white-space: nowrap;
+  margin: 2px;
+  
+}
+.header-icon{
+  width: 18px; 
+    height: 18px;
+    border-radius: 50%;
+  }
+.header-font{
+  font-size: small;
+}

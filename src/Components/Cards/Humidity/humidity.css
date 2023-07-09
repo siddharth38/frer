@@ -1,0 +1,36 @@
+
+.meter { 
+	height: 8px;
+	position: relative;
+    top: -15px;
+	background: #9c9d9e;
+border-radius: 15px;
+border-color: black;
+}
+.dark {
+  background: #171e24;
+}
+.meter > span {
+	display: block;
+	height: 100%;
+	background-color: #f3b610;
+	position: relative;
+	overflow: hidden;  
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.header{
+    position: relative;
+    top: 10px;
+    font-size: xx-small;
+}
+.para{
+    position: relative;
+    top: 8px;
+    font-size: small;
+}
+.paras{
+    font-size: smaller;
+}

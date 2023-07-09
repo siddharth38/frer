@@ -1,0 +1,120 @@
+.winds{
+    position: absolute;
+    left: 30px;
+}
+.div1 {
+    position : absolute;
+    left: 50px;
+     top : -2px;
+      border: 12px solid  #f3b610;
+      display: inline-block;
+      min-width: 4em;
+      min-height: 4em;
+     
+      border-radius: 90%;
+      border-left-color: transparent;
+     border-bottom-color: transparent;
+      border-right-color: transparent;
+  }
+  .div2 { position : absolute;
+    top :8px;
+    left: 45px;
+      border: 12px solid #f3b610;
+      display: inline-block;
+      min-width: 4em;
+      min-height: 4em;
+      border-radius: 90%;
+      border-top-color: transparent ;
+      border-bottom-color: transparent;
+     border-right-color: transparent;
+    }
+  .div3 {position : absolute;
+    top :8px;
+    left: 60px;
+      border: 11px solid #f3b610;
+      display: inline-block;
+      min-width: 4em;
+      min-height: 4em;
+      border-radius: 90%;
+      border-top-color: transparent ;
+      border-bottom-color: transparent;
+     border-left-color: transparent;
+   
+  }   
+  .div4 {position : absolute;
+       top :38px;
+     left : 44px;
+      border: solid white;
+      display: inline-block;
+    background-color :white;
+      min-width: 5em;
+      min-height: 0.4em;
+   
+  }
+  .parat0{
+   position : absolute;
+       top :-15px;
+     left:-25px;
+     font-size: small;
+  }
+  .parat1{
+   position : absolute;
+       top :-15px;
+    left :52px;
+    font-size: small;
+  }
+  .paral0{
+   position : absolute;
+       top :35px;
+    left : -15px;
+    font-size: small;
+  }
+  .paral1{
+   position : absolute;
+       top :9px;
+    left : -33px;
+    font-size: small;
+  }
+   .parar0{
+   position : absolute;
+       top :10px;
+    left : 55px;
+    font-size: small;
+  }
+  .parar1{
+   position : absolute;
+       top :35px;
+    left : 50px;
+    font-size: small;
+    
+  }
+  .needles{
+    position: absolute;
+    top: 12px;
+    left: 85px;
+    width: 4px;
+    height: 25px;
+    margin: 0 auto;
+    border-top-right-radius: 50% 2px;
+    border-bottom-right-radius: 50% 10px;
+    border-bottom-left-radius: 50% 10px;
+    border-top-left-radius: 50% 10px;
+    background: linear-gradient(to right, #000000, #414040, silver, #575555);
+    transform: rotate(190deg)
+  }
+  .dot {
+    position: absolute;
+    top: 35px;
+    left: 78px;
+    height: 12px;
+    width: 12px;
+    background: linear-gradient(to right, #000000, #414040, silver, #575555);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .headers{
+    position: absolute;
+    top: 50px;
+    left: 60px;
+    font-size: smaller;
+}
